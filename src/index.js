@@ -15,6 +15,10 @@ class App extends Component {
     return (
       <div>
         <Hello name={this.state.name} />
+        <Hello name={this.state.name} />
+        <Hello name={this.state.name} />
+      {/*ADD MORE 'HELLO' COMPONENTS TO
+      ENABLE SCROLLING OR RESIZE WINDOW*/}
       </div>
     );
   }
