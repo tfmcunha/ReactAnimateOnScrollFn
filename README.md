@@ -1,4 +1,4 @@
-Try it @ https://codesandbox.io/s/github/tfmcunha/animateOnScrollFn
+Try it @ https://codesandbox.io/s/github/tfmcunha/ReactAnimateOnScrollFn
 
 animateOnScroll.js
 
