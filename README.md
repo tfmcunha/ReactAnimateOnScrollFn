@@ -1,2 +1,0 @@
-# animateOnScrollFn
-Created with CodeSandbox
