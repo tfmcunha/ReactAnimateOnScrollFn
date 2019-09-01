@@ -1,4 +1,4 @@
-Try it @ https://codesandbox.io/s/animateonscrollfn-l80zy
+Try it @ https://codesandbox.io/s/github/tfmcunha/animateOnScrollFn
 
 animateOnScroll.js
 
